@@ -1,3 +1,6 @@
 [submodule "Memex"]
 	path = Memex
 	url = git@github.com:RamAvni/Memex.git
+[submodule "yeet"]
+	path = yeet
+	url = git@github.com:RamAvni/Yeet.git
